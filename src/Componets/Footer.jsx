@@ -63,6 +63,7 @@ export default function Footer() {
       {/* Bottom Section */}
       <div className="text-center text-gray-500 text-sm">
         © {new Date().getFullYear()} The Master. All rights reserved.
+        <p> wwwCloudQuik.com (DEV:Anjum Aqeel Shah)</p>
       </div>
     </footer>
   );
