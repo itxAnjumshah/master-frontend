@@ -50,7 +50,8 @@ export default function CertificateDesign({
         style={{ 
           width: "990px", 
           height: "703px", 
-          backgroundImage: "url('/frame3.png')",
+          // backgroundImage: "url('/frame3.png')",
+          backgroundImage: "url('/bgyellow frame.jpg')",
           backgroundSize: "990px 700px",
           backgroundRepeat: "no-repeat",
           backgroundPosition: "center",
