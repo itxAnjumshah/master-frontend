@@ -253,7 +253,7 @@ export default function CertificateDesign({
             </div>
           </div>
 <div className="qrcode">
-<QRCodeSVG value="https://themaster.vercel.app/" size={90} />
+<QRCodeSVG value="https://themaster.vercel.app/" size={70} />
 
 </div>
 
