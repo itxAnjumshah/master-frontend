@@ -1,5 +1,6 @@
 import React, { useRef } from "react";
 import html2canvas from 'html2canvas';
+import { QRCodeSVG } from "qrcode.react";
 
 // Import Playwrite România font
 const playwriteRomania = {
@@ -251,6 +252,11 @@ export default function CertificateDesign({
               <p style={{ fontWeight: 600, fontSize: "18px", fontFamily: "'Playwrite RO', cursive", color: "#1f2937" }}>Instructor Sign</p>
             </div>
           </div>
+<div className="qrcode">
+<QRCodeSVG value="https://themaster.vercel.app/" size={90} />
+
+</div>
+
 
           <div style={{ flex: 1 }}>
             <div style={{ textAlign: "center" }}>
