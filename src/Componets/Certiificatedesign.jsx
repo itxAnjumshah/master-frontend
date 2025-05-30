@@ -248,7 +248,8 @@ export default function CertificateDesign({
         }}>
           <div style={{ flex: 1 }}>
             <div style={{ textAlign: "center" }}>
-              <div style={{ width: "128px", borderBottom: "2px solid #4b5563", marginTop: "8px", marginLeft: "auto", marginRight: "auto" }}></div>
+               <h3 className="font-bold text-red-600">Ghulam Shabbir</h3>
+              <div style={{ width: "128px", borderBottom: "2px solid #4b5563", marginTop: "5px", marginLeft: "auto", marginRight: "auto" }}></div>
               <p style={{ fontWeight: 600, fontSize: "18px", fontFamily: "'Playwrite RO', cursive", color: "#1f2937" }}>Instructor Sign</p>
             </div>
           </div>
@@ -260,7 +261,8 @@ export default function CertificateDesign({
 
           <div style={{ flex: 1 }}>
             <div style={{ textAlign: "center" }}>
-              <div style={{ width: "128px", borderBottom: "2px solid #4b5563", marginTop: "10px", marginLeft: "auto", marginRight: "auto" }}></div>
+            <h3 className="font-bold text-red-600">Malik Dilawar Abbas</h3>
+              <div style={{ width: "138px", borderBottom: "2px solid #4b5563", marginTop: "5px", marginLeft: "auto", marginRight: "auto" }}></div>
               <p style={{ fontWeight: 600, fontSize: "18px", fontFamily: "'Playwrite RO', cursive", color: "#1f2937" }}>Director's Sign/Stamp</p>
             </div>
           </div>
