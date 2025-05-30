@@ -25,7 +25,7 @@ const Login = () => {
 
     try {
       // Simple login check
-      if (email === 'anjum@gmail.com' && password === 'anjum') {
+      if (email === 'themaster@gmail.com' && password === 'themaster') {
         localStorage.setItem('isLoggedIn', 'true');
         // Redirect to the page they tried to visit or dashboard
         const from = location.state?.from?.pathname || '/dashboard';
