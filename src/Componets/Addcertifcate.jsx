@@ -232,7 +232,7 @@ export default function AddCertificate() {
 
             <option value="Roller machine">Roller Machine</option>
             <option value="lifter">Lifter</option>
-            <option value="JCb">JCb</option>
+            <option value="JCB">JCB</option>
             <option value="Mobile Crane">Mobile Crane</option>
             <option value="Grader">Grader</option>
             <option value="Shazor">Shahzor</option>
