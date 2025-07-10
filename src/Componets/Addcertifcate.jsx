@@ -227,12 +227,12 @@ export default function AddCertificate() {
             <option value="22 wheeler Truck">22 wheeler Truck</option>
             <option value="Loader Machine">Loader Machine</option>
             <option value="Chan Dozer">Chain Dozer</option>
-            <option value="Arm Excavator">Arm Excavator</option>
+            <option value="Excavator"> Excavator</option>
             <option value="container forklifts">container forklifts</option>
 
             <option value="Roller machine">Roller Machine</option>
             <option value="lifter">Lifter</option>
-            <option value="JCP">JCP</option>
+            <option value="JCb">JCb</option>
             <option value="Mobile Crane">Mobile Crane</option>
             <option value="Grader">Grader</option>
             <option value="Shazor">Shahzor</option>
