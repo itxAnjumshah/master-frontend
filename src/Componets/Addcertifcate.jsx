@@ -218,6 +218,7 @@ export default function AddCertificate() {
             onChange={handleChange}
             className="w-full p-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500"
           >
+             <option value="Building Electrician">Building Electrician</option>
             <option value="Motor Cycle">Motor Cycle</option>
             <option value="Car">Car</option>
             <option value="Tractor">Tractor</option>
